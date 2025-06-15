@@ -35,7 +35,7 @@
 ---
 
 ### 📫 Connect with Me
-- 🌐 [LinkedIn](https://linkedin.com/in/yasirmaqsood)
-- 🛠️ [GitHub](https://github.com/yasirmaqsood)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/yasir-maqsood/)
+- 🛠️ [GitHub](https://github.com/Yasir349913/)
 - 💬 Open to internships, collaborations, and learning opportunities!
 
