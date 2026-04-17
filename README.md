@@ -1,41 +1,62 @@
-<h1 align="center">Hi 👋, I'm Yasir Maqsood</h1>
-<h3 align="center">Frontend Developer | React.js | GSAP | Student of Computer Science</h3>
+<h1 align="center">Yasir Maqsood</h1>
+
+<h3 align="center">Full-Stack MERN Developer | React.js | Next.js | Node.js | MongoDB | Strapi | GSAP</h3>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 I'm currently a Computer Science student (4th semester)
-- 💻 Passionate about building modern, responsive, and animated user interfaces
-- 🛠️ Working with **React.js**, **GSAP**, **JavaScript**, **Bootstrap**, and more
-- 🔄 Currently learning backend with **Node.js**, **Express**, and **MongoDB** to become a Full-Stack Developer
-- 🌱 Always exploring new tech and real-world projects to grow my skills
+## About Me
+
+I am a Computer Science student and a Full-Stack Web Developer focused on building scalable, responsive, and high-performance web applications using modern JavaScript technologies.
+
+I specialize in React.js, Next.js, Node.js, Express, MongoDB, and Strapi CMS. I also use GSAP to create smooth and interactive UI animations.
+
+Currently, I am actively looking for internship and junior-level full-stack developer opportunities.
 
 ---
 
-### 💼 Tech Stack
-- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, GSAP
-- **Tools:** Git, GitHub, VS Code, Chrome DevTools
-- **Currently Learning:** Node.js, Express.js, MongoDB
+## Tech Stack
 
----
+### Frontend
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+</p>
 
-### 🚀 Projects
-- 🎯 [Wise Market – E-commerce Frontend Website](https://wise-market-lvvn.vercel.app/)  
-  _Built with React.js, GSAP, and responsive UI principles._
+### Backend
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+</p>
 
-> 📌 More projects coming soon!
+### Database
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+</p>
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasirmaqsood&show_icons=true&theme=tokyonight" alt="yasirmaqsood" />
+### Tools
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
 </p>
 
 ---
 
-### 📫 Connect with Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yasir-maqsood/)
-- 🛠️ [GitHub](https://github.com/Yasir349913/)
-- 💬 Open to internships, collaborations, and learning opportunities!
+## Projects
+
+### Restaurant Portal
+https://github.com/Yasir349913/zezt-restaurant-portal
+
+
+Built using React.js, GSAP,socket.io and responsive UI design principles.
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/yasir-maqsood/
+- GitHub: https://github.com/Yasir349913/
 
